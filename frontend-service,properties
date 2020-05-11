@@ -2,4 +2,4 @@ authUsername = admin
 authPassword = service1
 backendUsername = admin
 backendPassword = service2
-service.backendService.serviceId : backend-service1
+service.backendService.serviceId : backend-service
